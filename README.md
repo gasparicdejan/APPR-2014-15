@@ -1,5 +1,7 @@
 # Analiza podatkov s programom R, 2014/15
 
+Avtor: Dejan Gašparič
+
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2014/15.
 
 ## Tematika
