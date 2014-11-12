@@ -1,13 +1,13 @@
 # Analiza podatkov s programom R, 2014/15
 
 Avtor: Dejan Gašparič
+Mentor: Janoš VIdali
 
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2014/15.
 
 ## Tematika
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal. Tukaj boste
-napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+Tema projekta je turizem v Evropi.
 
 ## Program
 
