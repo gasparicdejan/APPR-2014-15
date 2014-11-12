@@ -1,12 +1,8 @@
 # Analiza podatkov s programom R, 2014/15
 
-# Avtor:
+Avtor: Dejan Gašparič
 
-Dejan Gašparič
-
-# Mentor: 
-
-Janoš VIdali
+Mentor: Janoš VIdali
 
 ## Tematika
 
