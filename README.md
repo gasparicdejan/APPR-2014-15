@@ -6,11 +6,11 @@ Mentor: Janoš VIdali
 
 ## Tematika
 
-Vsebina, ki jo bom obravnaval pri tem projektu obsega trgovanje Slovenije. V obsegu te analize bom obravnaval izvoz ter uvoz naše države z drugimi svetovnimi državami v zadnjih letih. Za vsako državo s katero Slovenija trguje, bom prikazal podatke po vseh izdelkih.
+Vsebina, ki jo bom obravnaval pri tem projektu obsega trgovanje Slovenije. V obsegu te analize, bom obravnaval izvoz ter uvoz naše države z drugimi svetovnimi državami v zadnjih letih. Za vsako državo s katero Slovenija trguje, bom prikazal podatke po vseh izdelkih.
 
 Podatke bom pridobil na spletni strani: http://wits.worldbank.org/CountryProfile/Country/SVN/Year/2013/Summary, iz katere bom podatke prenesel v program Exel ter jih nato uvozil v program R.
 
-Namen analiziranja podatkov je ugotoviti kako se spreminjajo količina uvoženih in izvoženih posameznih izdelkov in kakšna je razlika med uvozom in izvozom z vsako posamezno državo ter kako se spreminja skozi čas.
+Namen analiziranja podatkov je ugotoviti, kako se spreminjajo količina uvoženih in izvoženih posameznih izdelkov in kakšna je razlika med uvozom in izvozom z vsako posamezno državo, ter kako se spreminja skozi čas.
 
 ## Program
 
