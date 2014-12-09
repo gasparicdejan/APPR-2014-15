@@ -22,7 +22,7 @@
 
 #TABELA 1 (export):
 uvozi1 <- function() {
-  return(read.delim("podatki/Podatki_export1.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_export1.csv", sep = ";", dec= ",", as.is = TRUE,
                   row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "2009", "2010", "2011", "2012", "2013") ,
                   fileEncoding = "Windows-1250"))
 }
@@ -32,7 +32,7 @@ export1 <- uvozi1()
 
 #TABELA 2 (export):
 uvozi2 <- function() {
-  return(read.delim("podatki/Podatki_export2.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_export2.csv", sep = ";", dec= ",", as.is = TRUE,
                     row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "2004", "2005", "2006", "2007", "2008") ,
                     fileEncoding = "Windows-1250"))
 }
@@ -42,7 +42,7 @@ export2 <- uvozi2()
 
 #TABELA 3 (export):
 uvozi3 <- function() {
-  return(read.delim("podatki/Podatki_export3.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_export3.csv", sep = ";", dec= ",", as.is = TRUE,
                     row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "1999", "2000", "2001", "2002", "2003") ,
                     fileEncoding = "Windows-1250"))
 }
@@ -54,7 +54,7 @@ export3 <- uvozi3()
 
 #TABELA 1 (import):
 uvozi11 <- function() {
-  return(read.delim("podatki/Podatki_import1.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_import1.csv", sep = ";", dec= ",", as.is = TRUE,
                     row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "2009", "2010", "2011", "2012", "2013") ,
                     fileEncoding = "Windows-1250"))
 }
@@ -64,7 +64,7 @@ import1 <- uvozi11()
 
 #TABELA 2 (import):
 uvozi22 <- function() {
-  return(read.delim("podatki/Podatki_import2.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_import2.csv", sep = ";", dec= ",", as.is = TRUE,
                     row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "2004", "2005", "2006", "2007", "2008") ,
                     fileEncoding = "Windows-1250"))
 }
@@ -74,7 +74,7 @@ import2 <- uvozi22()
 
 #TABELA 3 (import):
 uvozi33 <- function() {
-  return(read.delim("podatki/Podatki_import3.csv", sep = ";", as.is = TRUE,
+  return(read.delim("podatki/Podatki_import3.csv", sep = ";", dec= ",", as.is = TRUE,
                     row.names = NULL, na.strings= c("Reporter Name", "Partner Name", "Trade Flow", "Product Group", "Indicator", "1999", "2000", "2001", "2002", "2003") ,
                     fileEncoding = "Windows-1250"))
 }
